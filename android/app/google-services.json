@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205339221130",
+    "project_id": "refferaladminweb",
+    "storage_bucket": "refferaladminweb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205339221130:android:92d1944e7cead424b9a173",
+        "android_client_info": {
+          "package_name": "com.example.referral_admin_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205339221130-bpm6ihnjparei699ng4rsh1h0kr387na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjz5LxpKtCuTZu_yt9XbEoft0X83YXZho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205339221130-bpm6ihnjparei699ng4rsh1h0kr387na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
